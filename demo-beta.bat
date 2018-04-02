@@ -1,0 +1,4 @@
+@echo off
+set cur_path=%~dp0
+python %cur_path%lib\mpl.py -bs 8WFEHBN9EFM0EJF!M?SWE0NMSVO*9WEHFWEF9EWMF*0E#WSJD0FEWF0VSD9EWFMWEDMV-EWIFVSFEW-F9UEWVMWE-FWE
+pause
