@@ -9,7 +9,7 @@ Information
 ---------
 Details
 ---------
-* Allows you to conveter and python (.py or .pyw) script to an exe
+* Allows you to convert your python (.py or .pyw) script to an exe
 
 ------------------
 Features Supported
